@@ -11,7 +11,7 @@
 -  AI / ML
 - 🔧Git & GitHub
 
-###  My Learning Journey
+###  My Learning Journey.
 
 I'm currently learning the fundamentals of programming and web development, experimenting with projects, and slowly turning ideas into code.
 
